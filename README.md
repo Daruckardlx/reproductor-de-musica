@@ -25,3 +25,5 @@ Para ejecutar este proyecto, necesitas tener instalado **Python 3.x** en tu sist
    Abre tu terminal o símbolo del sistema y ejecuta el siguiente comando para instalar Pygame:
    ```bash
    pip install pygame
+
+   > **Nota importante:** Este proyecto requiere **`pygame-ce`** (*Community Edition*) en lugar de la versión clásica de `pygame`, debido a problemas de compatibilidad y compilación en versiones recientes de Python (Python 3.12+ / 3.14).
